@@ -32,16 +32,12 @@
 
 <table>
 <tr>
-<td>If this post solves a problem or makes you think differently, would you consider topping up our caffeine levels?</td>
-<td>If you have more specific or complex AWS alliance support, partner/marketplace operations or partner ecosystem engineering requirements, check out how awyspr can help.</td>
+<td width="50%">If this post solves a problem or makes you think differently, would you consider topping up our caffeine levels?</td>
+<td width="50%">If you have more specific or complex AWS alliance support, partner/marketplace operations or partner ecosystem engineering requirements, check out how awyspr can help.</td>
 </tr>
 <tr>
-<td align="center"><a href="https://www.buymeacoffee.com/badenh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;"></a></td>
-<td align="center"><a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="25%" height="25%"></a></td>
+<td width="50%" align="center"><a href="https://www.buymeacoffee.com/badenh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;"></a></td>
+<td width="50%" align="center"><a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="25%" height="25%"></a></td>
 </tr>
 </table>
 
-
-| If this post solves a problem or makes you think differently, would you consider topping up our caffeine levels? | If you have more specific or complex AWS alliance support, partner/marketplace operations or partner ecosystem engineering requirements, check out how awyspr can help. |
-| ----------- | ----------- |
-| <center><a href="https://www.buymeacoffee.com/badenh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a></center> | <center><a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="25%" height="25%"></a></center> |
