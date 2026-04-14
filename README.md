@@ -10,8 +10,22 @@ Warning! Some opinions included :-)
 
 [post2](post2.md)
 
-[20260401-aprilfool](20260401-aprilfool.md)
+### 2026-04
+* [20260401-aprilfool](20260401-aprilfool.md)
 
+### 2026-03
+
+### 2026-02
+
+### 2026-01
+
+### 2025-12
+
+### 2025-11
+
+### 2025-10
+
+### 2025-09
 
 ---
 
