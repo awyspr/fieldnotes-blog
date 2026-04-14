@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td rowspan="2" align="center"><a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="100%" height="100%"></a></td>
-<td><b>So what's this all about then?</b> <br><br> It's mostly technical fieldnotes from providing AWS partner ecosystem engineering support across PartnerCentral, Marketplace etc. Occasional insights from or detours into AWS partner/alliance business management and operations. <br><br> <i>Warning! Some opinions included</i> :smile: </td>
+<td><b>So what's this all about then?</b> <br><br> It's mostly technical fieldnotes from our work at [awyspr.com](https://awyspr.com) providing AWS partner ecosystem engineering support across PartnerCentral, Marketplace etc. Occasional insights from or detours into AWS partner/alliance business management and operations. <br><br> <i>Warning! Some opinions included</i> :smile: </td>
 </tr>
 </table>
 
