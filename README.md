@@ -4,4 +4,4 @@
 
 [post2](post2.md)
 
-[20260401-aprilfool](20260402-aprilfool.md)
+[20260401-aprilfool](20260401-aprilfool.md)
