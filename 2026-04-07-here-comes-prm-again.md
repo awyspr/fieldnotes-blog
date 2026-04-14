@@ -1,4 +1,4 @@
-<a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="100%" height="100%"></a></td>
+<a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="25%" height="25%"></a>
 
 # Here comes PRM (again)
 
