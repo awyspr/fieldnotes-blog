@@ -11,7 +11,7 @@ Warning! Some opinions included :-)
 [post2](post2.md)
 
 ### 2026-04
-* [20260401-aprilfool](20260401-aprilfool.md)
+* [2026-04-01-april-fool](2026-04-01-april-fool.md)
 
 ### 2026-03
 
