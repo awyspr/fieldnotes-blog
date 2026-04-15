@@ -4,7 +4,7 @@
 
 2026-03-27
 
-## What's this one all about them ?
+## What's this one all about then ?
 
 [PartnerCentral Agents came out on tour in the last week or two]((https://docs.aws.amazon.com/partner-central/latest/sales-guide/partner-cosell-agent.html) and we're confident that a decent number of AWS partner alliance leads or team members have have clicked the little blue Q button at least once.
 
