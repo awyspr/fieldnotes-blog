@@ -14,7 +14,7 @@
 * [2026-04-07 Here comes PRM (again)](2026-04-07-here-comes-prm-again.md)
 
 ### March 2026
-* [2026-03-27 PartnerCentral Agents Prompt Hacking with Personas]()
+* [2026-03-27 PartnerCentral Agents Prompt Hacking with Personas](2026-03-27-partnercentral-agents-prompt-hacking.md)
   
 ### February 2026
 
