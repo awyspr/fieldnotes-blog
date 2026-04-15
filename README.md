@@ -10,7 +10,6 @@
 ## 2026
 
 ### April 2026
-* [2026-04-11 Setting up AWSMP Discovery API access](2026-04-11-awsmp-setup-disco-api-access.md)
 * [2026-04-10 AWSMP Discovery API is now public](2026-04-10-awsmp-disco-api-public.md)
 * [2026-04-07 Here comes PRM (again)](2026-04-07-here-comes-prm-again.md)
 
