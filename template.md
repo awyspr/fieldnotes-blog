@@ -16,6 +16,8 @@ Text
 code block
 ```
 
+[sample icon](assets/aws-icons-resource-explorer.png)
+
 ## The wrap up
 
 Text
