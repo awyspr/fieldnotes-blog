@@ -1,6 +1,6 @@
 <a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="10%" height="10%" align="left"></a>
 
-# Setting up AWSMP Discovery API access
+# Getting setup for AWSMP Discovery API access
 
 2026-04-11
 
