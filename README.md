@@ -40,7 +40,7 @@
 </tr>
 <tr>
 <td align="center"><a href="https://www.buymeacoffee.com/badenh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;"></a></td>
-<td align="center"><a href="https://awyspr.com/"><img src="assets/awyspr-head-words-640x180.png"width="33%" height="33%"></a></td>
+<td align="center"><a href="https://awyspr.com/"><img src="assets/awyspr-head-words-640x180.png" width="33%" height="33%"></a></td>
 </tr>
 </table>
 
