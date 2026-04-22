@@ -1,6 +1,6 @@
 <a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="10%" height="10%" align="left"></a>
 
-# Attributed Revenue Dashboards - Almost Completing the PRM Puzzle
+# Attributed Revenue Dashboards - almost completing the PRM puzzle
 
 2026-04-22
 
