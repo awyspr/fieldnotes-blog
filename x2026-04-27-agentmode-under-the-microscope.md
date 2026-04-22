@@ -43,7 +43,24 @@ which is an interim semi-empty state unless the table itself has been completely
 Here's some time-lapse screenshots of a reasonable comparison, focusing on the tabulation panel which ultimately 
 brings the comparison together for a user:
 
-EXAMPLE - timer 30 sec, 60 sec, 120 sec, 180 sec.
+15 sec
+<img src="assets/after 15 sec.png" width="25%" height="25%">
+
+30 sec
+<img src="assets/after 30 sec.png" width="25%" height="25%">
+
+45 sec
+<img src="assets/after 45 sec.png" width="25%" height="25%">
+
+60 sec
+<img src="assets/after 60 sec.png" width="25%" height="25%">
+
+90 sec
+<img src="assets/after 90 sec.png" width="25%" height="25%">
+
+Whats the lesson ? Kick off your comparison and then wait 2-3 mins. G make a coffee, then collect your results. Otherwise they're probably going to be incomplete.
+
+The extended lesson is if you have a mix of products in your AgentMode comparison set you're likely to get faster results for the more common ones, and slower results for the lesser known ones. Be sure to wait long enough for the lesser known ones to compleete via the researcher, else you risk skewing the output towards the more common solutions.
 
 4) the AgentMode "evidence" in the form of its category/feature analysis and evidence is ... questionable. The 
 researcher seems to grab highly rated over highly relevant/authoritative URLs and use those to make assessments, 
