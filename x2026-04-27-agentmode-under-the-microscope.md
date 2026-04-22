@@ -5,7 +5,7 @@
 2026-04-27
 
 ## What's this one all about then ?
-We've been working a bit with the AWS Marketplace AgentMode feature recently (https://aws.amazon.com/about-aws/whats-new/2025/11/aws-marketplace-agent-mode-ai-enhanced-search/). Its well-enough designed - compare a few specific products that come up in a search list or upload some requirements and find what matches and then dovetail into a proposal and agreement process process. Whether or not a buyer would be convinced to shortlist and or even choose a solution purely on the basis of AgentMode's analysis is a different question - its probably useful for market research.
+We've been working a bit with the [AWS Marketplace AgentMode feature](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-marketplace-agent-mode-ai-enhanced-search/) recently. Its well-enough designed - compare a few specific products that come up in a search list or upload some requirements and find what matches and then dovetail into a proposal and agreement process process. Whether or not a buyer would be convinced to shortlist and or even choose a solution purely on the basis of AgentMode's analysis is a different question - its probably useful for market research.
 
 ### Observations
 Four things stick out a bit funny with AgentMode from our testing.
