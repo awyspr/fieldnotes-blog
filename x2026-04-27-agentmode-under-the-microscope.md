@@ -29,7 +29,7 @@ a security ISV product, and an financial markets capital optimization platform:
 
 Putting that together (opens in a new window):
 
-<a href="[https://github.com](https://aws.amazon.com/marketplace/agentmode/#/?agent=comparison&listingIds=prodview-dfpm5amnqswn6,prodview-3xw4sjqv2pb22,prodview-vo3yo7itpfxdg)" target="_blank" rel="noopener noreferrer">The unlikely 3-way comparison between Labra, Drata and Kyriba</a>   
+<a href="https://aws.amazon.com/marketplace/agentmode/#/?agent=comparison&listingIds=prodview-dfpm5amnqswn6,prodview-3xw4sjqv2pb22,prodview-vo3yo7itpfxdg" target="_blank" rel="noopener noreferrer">The unlikely 3-way comparison between Labra, Drata and Kyriba</a>   
 
 AgentMode tries hard to make a comparison. Probably too hard - is that sycophantic AI ? And the comparison isn't all 
 that helpful. A guardrail that did some kind of "are these even in the same broad category and therefore can be 
