@@ -8,7 +8,7 @@
 
 The previously flagged "PRM Dashboards" for partners were 
 [released today](https://aws.amazon.com/blogs/apn/unlock-revenue-insights-in-the-new-attributed-revenue-dashboard/), 
-available in PartnerCentral under the Partner Analytics > Attributed Revenue item.
+available in PartnerCentral (v3, in Console) under the Partner Analytics > Attributed Revenue item.
 
 ### First pass
 
