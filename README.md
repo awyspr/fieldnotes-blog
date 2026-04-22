@@ -11,6 +11,7 @@
 
 ### April 2026
 * [2026-04-22 Attributed Revenue Dashboards - Almost Completing the PRM Puzzle](2026-04-22-attributed-revenue-dashboards.md)
+* [2026-04-17 AgentMode Under the Microscope](2026-04-17-agentmode-under-the-microscope.md)
 * [2026-04-10 AWSMP Discovery API is now public](2026-04-10-awsmp-disco-api-public.md)
 * [2026-04-07 Here comes PRM (again)](2026-04-07-here-comes-prm-again.md)
 
