@@ -30,7 +30,32 @@ In practice what this means is:
 
 So its read only. Its a subset of the AWS Managed policy for [MarketplaceRead-Only](https://docs.aws.amazon.com/marketplace/latest/buyerguide/buyer-security-iam-awsmanpol.html#security-iam-awsmanpol-awsmarketplaceread-only), but cut down just to the forward facing components, none of the transactional access.
 
-4. Apply the actual IAM policy to the group, again [from the docs](https://docs.aws.amazon.com/marketplace/latest/APIReference/discovery-api-access-control.html):
+4. Apply the actual IAM policy to the user or group, again [from the docs](https://docs.aws.amazon.com/marketplace/latest/APIReference/discovery-api-access-control.html). This isn't an AWS Managed Policy, you need to apply it inline :-(
+
+A simple version to allow the nominated user only to run searches would be:
+
+```aws iam put-user-policy --user-name $USERNAME --policy-name MarketplaceDiscoveryAPIPermission --policy-document '{"Version":"2012-10-17","Statement":[{"Effect":"Allow","Action":["aws-marketplace:SearchListings","aws-marketplace:GetListing","aws-marketplace:SearchFacets"],"Resource": "*"}]}'```
+
+In pretty print/JSON:
+
+```
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "aws-marketplace:SearchListings",
+                "aws-marketplace:GetListing",
+                "aws-marketplace:SearchFacets"
+            ],
+            "Resource": "*"
+        }
+    ]
+}
+```
+
+A more complex, full featured version would be:
 
 ```
 {
