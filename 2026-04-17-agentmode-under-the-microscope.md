@@ -27,15 +27,15 @@ a security ISV product, and an financial markets capital optimization platform:
 * [Drata Security & Compliance Automation Platform](https://aws.amazon.com/marketplace/pp/prodview-3xw4sjqv2pb22)
 * [Kyriba: Your Liquidity Performance Platform](https://aws.amazon.com/marketplace/pp/prodview-vo3yo7itpfxdg)
 
-Putting that together (opens in a new window): <a href="https://aws.amazon.com/marketplace/agentmode/#/?agent=comparison&listingIds=prodview-dfpm5amnqswn6,prodview-3xw4sjqv2pb22,prodview-vo3yo7itpfxdg" target="_blank" rel="noopener noreferrer">The unlikely 3-way comparison between Labra, Drata and Kyriba</a>   
+Putting that together (opens in a new window): <a href="https://aws.amazon.com/marketplace/agentmode/#/?agent=comparison&listingIds=prodview-dfpm5amnqswn6,prodview-3xw4sjqv2pb22,prodview-vo3yo7itpfxdg" target="_blank" rel="noopener noreferrer">an unlikely 3-way comparison between Labra, Drata and Kyriba</a>   
 
-AgentMode tries hard to make a comparison. Probably too hard - is that sycophantic AI ? And the comparison isn't all 
+You will see AgentMode tries hard to make a comparison. Probably too hard - is that sycophantic AI ? And the comparison isn't all 
 that helpful. A guardrail that did some kind of "are these even in the same broad category and therefore can be 
 legitimately compared" would probably be useful, even if that was just saving production inferencing costs for AWS 
 themselves or preventing DDoS type overloads from people hitting up AgentMode with malicious payloads (ahem! don't 
 repeatedly hit that URL for fun).
 
-3) it takes quite a long time to get a full comparison, and if you decide to leave early, you'll end up with tabulated 
+3) it takes quite a long time to get a full result set, and if you decide to leave early, you'll end up with tabulated 
 empty comparisons (this is an issue both with the table on the web which actually progressively but slowly fills - 
 you might have to make a coffee or hit refresh a few times to encourage it, as well as an issue with downloading PDF/CSV 
 which is an interim semi-empty state unless the table itself has been completely filled by the AgentMode researcher). 
@@ -60,7 +60,7 @@ brings the comparison together for a user:
 
 Whats the lesson ? Kick off your comparison and then wait 2-3 mins. Go make a coffee, then collect your results. Otherwise they're probably going to be incomplete.
 
-The extended lesson is if you have a mix of products in your AgentMode comparison set you're likely to get faster results for the more common ones, and slower results for the lesser known ones. Be sure to wait long enough for the lesser known ones to compleete via the researcher, else you risk skewing the output towards the more common solutions.
+The extended lesson is if you have a mix of products in your AgentMode comparison set you're likely to get faster results for the more common ones, and slower results for the lesser known ones. Be sure to wait long enough for the lesser known ones to complete via the researcher, else you risk skewing the output towards the more common solutions.
 
 4) the AgentMode "evidence" in the form of its category/feature analysis and evidence is ... questionable. The 
 researcher seems to grab highly rated over highly relevant/authoritative URLs and use those to make assessments, 
