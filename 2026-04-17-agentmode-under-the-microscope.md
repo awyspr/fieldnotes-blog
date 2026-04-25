@@ -19,7 +19,7 @@ But its problematic if you got to AgentMode from some kind of a search with an A
 into groups, you can't do an N-way comparison of a list longer than 5. Maybe with a logged in user they could allow 
 a list of 10 ?
 
-3) AgentMode seems blissfully unaware when you ask it to compare things that are very different (and 
+2) AgentMode seems blissfully unaware when you ask it to compare things that are very different (and 
 are unlikely to be compared in the real world).
 
 I'd like to compare an apple, a temple and a boat. Perhaps extreme but you can tell AgentMode to compare 
