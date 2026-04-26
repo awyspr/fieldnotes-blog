@@ -1,6 +1,6 @@
 <a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="10%" height="10%" align="left"></a>
 
-# Short-lived (but short-sighted) permissions for AWSMP provisioning
+# Short-lived (but short-sighted) IAM permissions for AWSMP provisioning
 
 2025-11-22
 
