@@ -76,5 +76,5 @@ you should see something like this:
 
 There are more than a few wrinkles, but still, the addition of User Agents helps close some gaps and provide some alternatives to the problems of using Resource tagging as we wrote about and experimented with earlier. Now if only AWS will release some kind of PRM dashboard that supports both Resource and User Agent tagging for partners, it will almost make sense.
 
-[Back to awyspr fieldnotes index](https://awyspr.github.io/awyspr-fieldnotes)
+[Back to awyspr fieldnotes index](https://fieldnotes.awyspr.com)
 
