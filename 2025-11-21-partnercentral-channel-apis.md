@@ -6,10 +6,10 @@
 
 ## What's this one all about then ?
 
-(Its been a year since much happened in the PartnerCentral API space)[https://docs.aws.amazon.com/partner-central/latest/APIReference/release-notes.html]
+[Its been a year since much happened in the PartnerCentral API space](https://docs.aws.amazon.com/partner-central/latest/APIReference/release-notes.html)
 That feels like a long time ...
 
-But this week, AWS started dropping functionality ahead of re:Invent, and one of the things we got was the (PartnerCentral Channel API)[https://docs.aws.amazon.com/partner-central/latest/APIReference/API_Operations_Partner_Central_Channel_API.html]
+But this week, AWS started dropping functionality ahead of re:Invent, and one of the things we got was the [PartnerCentral Channel API](https://docs.aws.amazon.com/partner-central/latest/APIReference/API_Operations_Partner_Central_Channel_API.html)
 
 In our part of the world and experience, not so many people are doing channel business, but there are other places where its dominant and scaled,
 and so there are going to be folk for whom this makes a big difference in onboarding and managing channel relationships.
@@ -37,6 +37,6 @@ Two things stand out to us from first glance:
 
 New APIs for PartnerCentral are good; maybe they are leading up to a different way of integrating or operating PartnerCentral, lets see what else comes out in the re:Invent rush.
 
-[Back to awyspr fieldnotes index](https://awyspr.github.io/awyspr-fieldnotes)
+[Back to awyspr fieldnotes index](https://fieldnotes.awyspr.com)
 
 
