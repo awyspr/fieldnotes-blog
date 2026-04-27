@@ -6,7 +6,9 @@
 
 ## What's this one all about then ?
 
-Text
+(Its been a year since much happened in the PartnerCentral API space)[https://docs.aws.amazon.com/partner-central/latest/APIReference/release-notes.html] That feels like a long time ...
+
+But this week, AWS started dropping functionality ahead of re:Invent, and one of the things we got was the (PartnerCentral Channel API)[https://docs.aws.amazon.com/partner-central/latest/APIReference/API_Operations_Partner_Central_Channel_API.html]
 
 ### Minor heading
 
