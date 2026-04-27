@@ -24,7 +24,7 @@ This one is different to STS.
 
 Here's the AWS diagram of the end-to-end flow.
 
-<img src="https://docs.aws.amazon.com/images/IAM/latest/UserGuide/images/delegation-flow.png"
+<img src="https://docs.aws.amazon.com/images/IAM/latest/UserGuide/images/delegation-flow.png">
 
 * The partner-publisher makes a request for temporary access.
 * Request is routed into Console as an IAM request.
