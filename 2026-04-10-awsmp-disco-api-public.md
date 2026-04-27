@@ -34,5 +34,5 @@ sourcing, embedding, analysing marketplace data and interacting with AWS Marketp
 like CRMs. It will take a little while to work out whether its functionally or content wise the same, but 
 meanwhile, its open for anyone who wants it.
 
-[Back to awyspr fieldnotes index](https://awyspr.github.io/awyspr-fieldnotes)
+[Back to awyspr fieldnotes index](https://fieldnotes.awyspr.com)
 
