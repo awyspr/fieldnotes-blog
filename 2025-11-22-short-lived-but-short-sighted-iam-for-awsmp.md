@@ -6,8 +6,7 @@
 
 ## What's this one all about then ?
 
-An announcement came out this week about a [new short-lived IAM permission designed to streamline provisioning of AWSMP products].
-(https://aws.amazon.com/about-aws/whats-new/2025/11/streamline-integration-partner-products-iam-delegation/).
+An announcement came out this week about a [new short-lived IAM permission designed to streamline provisioning of AWSMP products](https://aws.amazon.com/about-aws/whats-new/2025/11/streamline-integration-partner-products-iam-delegation/).
 
 This really scratches an itch, as the "get the right permissions available to deploy into a customer account" can really delay things.
 Often someone who makes the purchase on Marketplace does not have the IAM permissions required to actually deploy the purchased 
@@ -34,7 +33,7 @@ Here's the AWS diagram of the end-to-end flow.
 
 Sounds good.
 
-But the (devil is in the details)[https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies-temporary-delegation.html]
+But the [devil is in the details](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies-temporary-delegation.html)
 
 "You can only delegate permissions to a product provider if you have permissions to the services and 
 actions included in the temporary delegation request." 
@@ -56,7 +55,7 @@ the right IAM-fu. And so the partner-publisher will try to do whatever the thing
 will have to start again, because the request is "approve once" whether or not the right delegation is
 in hand.
 
-To counter, there is a (new set of IAM permissions that can be given out by a customer-account administrator)[https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies-temporary-delegation.html#temporary-delegation-managing-permissions]. But they only address the request approval piece (ie process),
+To counter, there is a [new set of IAM permissions that can be given out by a customer-account administrator](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies-temporary-delegation.html#temporary-delegation-managing-permissions). But they only address the request approval piece (ie process),
 not the actual permissions scope matching and authorization.
 
 Also, "temporary" delegation requests apparently live forever - they are closed off when "approved" but actually don't expire.
