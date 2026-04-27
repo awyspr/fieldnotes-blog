@@ -1,6 +1,6 @@
 <a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="10%" height="10%" align="left"></a>
 
-# PartnerCentral Channel APIs
+# New PartnerCentral Channel APIs
 
 2025-11-21
 
@@ -28,7 +28,10 @@ Here's what dropped:
 * API structure reorganization: Reorganized documentation to distinguish between the Selling API and Channel API, with dedicated sections for each API's permissions, logging, notifications, and quotas.
 * Supported regions documentation: Added documentation for supported AWS regions for both Selling and Channel APIs.
 
-[MOST NOTABLE]
+Two things stand out to us from first glance:
+
+* how apparently simple it is to setup a channel relationship at the programmatic level. All the drama happens in the admin/commercial side, none of it is technical.
+* the API reorganization (nerd out!!), splitting up what was becoming a pretty unweildy catch all API into a better structure - initially Selling and Channel, so presumably there's some more coming too. Anything that makes integration easier to build is good.
 
 ## The wrap up
 
