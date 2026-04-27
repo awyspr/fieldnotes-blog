@@ -9,15 +9,16 @@
 It seems pretty reasonable that if you've invested in putting products and services up on AWS Marketplace that you want to be 
 able to kick off an ACE opportunity at the point where a potential customer requests a private offer on Marketplace - right ?
 
-This feature is available for the new shiny multi-product solution private offers (see https://docs.aws.amazon.com/marketplace/latest/userguide/multi-product-solutions-faq.html#what-is-ace). But its not available for "older" single product private offers.
+This feature is [available for the new shiny multi-product solution private offers](https://docs.aws.amazon.com/marketplace/latest/userguide/multi-product-solutions-faq.html#what-is-ace). But its not available for "older" single product private offers - or at least not yet anyway.
 
 So we set out to see if we could solve, eg automate the solution to capture an event from AWS marketplace private offer 
 request so that we can create an ACE opportunity from it, using respective APIs and passing the payload between the two. 
 
-It turns out you can _almost_ do this but not quite. Why ? Who knows.
+It turns out you can _almost_ do this but not quite. Why is there a gap ? Who knows but its probably to do with the fact
+that ACE and Marketplace teams have been historically separate.
 
 tl;dr 
-* you can do auto kick off an ACE opportunity from a Marketplace action if "agreement" being the trigger but not 
+* you can kick off an ACE opportunity from a Marketplace action if "agreement" being the trigger but not 
 "request private offer" being the trigger.
 * with 1-step manual handling you can do the same with "private offer" as well. Automagic is just not quite strong enough.
 
@@ -29,7 +30,7 @@ The bad news - ACE opportunities still need validation, so despite you having an
 
 No matter, lets look at the how.
 
-WIP
+[WIP]
 
 [steps]
 
@@ -41,12 +42,7 @@ https://docs.aws.amazon.com/marketplace/latest/userguide/notifications-eventbrid
 
 ### Marketplace private offer requests to ACE oppportunities
 
-
-```
-code block
-```
-
-<img src="assets/aws-icons-resource-explorer.png" width="25%" height="25%">
+[WIP]
 
 ## The wrap up
 
@@ -56,7 +52,7 @@ partially driven by ACE opportunity lifecycle progression, you're going to miss 
 if you have Marketplace business running and are not bringing at least some of those transactions back to the ACE side. It would
 be nice if you coul grab both private offers and agreements automatically, but for now, its just not quite possible.
 
-[Back to awyspr fieldnotes index](https://awyspr.github.io/awyspr-fieldnotes)
+[Back to awyspr fieldnotes index](https://fieldnotes.awyspr.com)
 
 
 
