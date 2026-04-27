@@ -119,7 +119,7 @@ updated listings. Where thats a filter a user sets for a query your product is r
 to the top. More generally where latest updated is an input to a broader relevance rank, its an easy boost. And it can 
 be trivially automated to be done daily, weekly, monthly without human intervention (or memory).
 
-[Back to awyspr fieldnotes index](https://awyspr.github.io/awyspr-fieldnotes)
+[Back to awyspr fieldnotes index](https://fieldnotes.awyspr.com)
 
 
 
