@@ -41,4 +41,4 @@ Pick which ever one suits your use case.
 
 Unfortunately PartnerCentral Agent sessions are ephemeral, so you can't save those prompts as personalities and you have to load them in every time. Still, a cut-and-paste is worth it given the customised/adjusted nature of the advice that comes back.
 
-[Back to awyspr fieldnotes index](https://awyspr.github.io/awyspr-fieldnotes)
+[Back to awyspr fieldnotes index](https://fieldnotes.awyspr.com)
