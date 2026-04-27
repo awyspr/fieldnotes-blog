@@ -132,4 +132,4 @@ Systems folks should get back something like this:
 
 There's a bit of fiddling with this as its an IAM access controlled API; which is normal for AWS infrastructure but often a bit beyond what a partner alliance lead or team member might have to deal with. That relationship you established with your AWS systems folk when you got PartnerCentral migrated over to the Console will be something you keep coming back to. But basically the Marketplace Discovery API works if you've got the right permissions on the account. So now we can have some fun!
 
-[Back to awyspr fieldnotes index](https://awyspr.github.io/awyspr-fieldnotes)
+[Back to awyspr fieldnotes index](https://fieldnotes.awyspr.com)
