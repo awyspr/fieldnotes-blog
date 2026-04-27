@@ -117,4 +117,4 @@ basis of that step into a contract forming process (whether public or private of
 commerce world that might be more likely, but for now, AgentMode seems like a convenient supporting/secondary analysis 
 over a direct decision influence.
 
-[Back to awyspr fieldnotes index](https://awyspr.github.io/awyspr-fieldnotes)
+[Back to awyspr fieldnotes index](https://fieldnotes.awyspr.com)
