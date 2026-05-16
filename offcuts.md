@@ -1,20 +1,17 @@
 OFFCUTS
 
-
 ## 2026-05
+1/2 May - finding the offer ID for a draft listing (aka Bhagirath call)
 
+## 2026-04
 https://awsapichanges.com/archive/changes/080f45-agreement-marketplace.html
 
+## 2026-03
 https://awsapichanges.com/archive/changes/080f45-organizations.html
 
-
-1 May - finding the offer ID for a draft listing (aka Bhagirath call)
-
-
-
-
-## 2026-03
 https://awsapichanges.com/archive/changes/99ac86-partnercentral-account.html
+
+
 
 NEW-IN-TOWN: Partner Central Agents/MCP compare and contrast Opportunity advice.
 Disclosure - using Hubspot as CRM. They're unsuprisingly different and so the value is somewhere in the middle, and most likely operationalized on the CRM side not in ACE. Pull the opportunity summary/recommendations through into CRM, merge/compare with local intelligence that is not synced up, and then decide what to do.
