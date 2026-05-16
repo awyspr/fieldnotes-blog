@@ -6,13 +6,13 @@
 
 ## What's this one all about then ?
 
-So the obvious thing to do with the AWSMP Discovery API was to compare it to the browser UI/UX and 
+So the obvious thing to do with the new AWSMP Discovery API was to compare it to the browser UI/UX and 
 see what was the same or different.
 
 ### Whats here and what isnt ? 
 Lets take search first then product.
 
-For search, we'll put in a query, lets say "XX"
+For search, we'll put in a query, lets say "grc automation"
 
 Now lets look at the left hand menu, which is categories. Disco API allows you to get this info 
 back, or preset/navigate/select from it using https://docs.aws.amazon.com/marketplace/latest/APIReference/API_marketplace-discovery_SearchFacets.html - thats a tick. While that left hand menu content "seems" trivial to 
@@ -25,10 +25,10 @@ Counter point, in the browser, we also get an AI summary of the result set "some
 
 Here's what you're missing: 
 
-[IMG]
+grc-automation-ai-overview.png
 
 For product, we can again either select an item off the search or just pass in the prodview- ID 
-if we know what it is. Doesn't matter how we do this, so lets just pick one. https://aws.amazon.com/marketplace/pp/prodview-brb73nceicv7u will do.
+if we know what it is. Doesn't matter how we do this, so lets just pick one. https://aws.amazon.com/marketplace/pp/prodview-3xw4sjqv2pb22 will do.
 
 AWSMP Discovery API and using https://docs.aws.amazon.com/marketplace/latest/APIReference/API_marketplace-discovery_GetProduct.html and https://docs.aws.amazon.com/marketplace/latest/APIReference/API_marketplace-discovery_GetListing.html 
 allows us to get back most of the info that appears on the page, which is helpful because DOM 
@@ -40,16 +40,16 @@ But whats missing - compared to the browsing experience - are these two pieces:
 
 You're missing this section with the Disco API: 
 
-[IMG]
+drata-comparison-products.png
 
 * Customer Reviews - you can get the reviews metadata (eg counts, sources as a part of XXX), 
 but not the actual reviews.
 
 Here's what you're missing: 
 
-[IMG]
+drata-customer-reviews.png
 
-Now in both cases - the missing bits for search, its probably fair to say that most programmatic 
+Now in all cases - the missing bits for search, its probably fair to say that most programmatic 
 interactions with AWSMP via Discovery API are not likely to be looking for the AWSMP-provided AI summary/overview
 or the potential comparisons or the review details.
 
@@ -58,7 +58,7 @@ care about similar products and about actual customer reviews (rather than just 
 
 _MORE NOTES HERE_
 
-What the API does NOT provide: Ranked search position (no rank integer in response — sorting by RELEVANCE exists but no per-item rank), AI overview text, screenshots, 
+What the API does NOT provide: Ranked search position (no rank integer in response — sorting by RELEVANCE exists but no per-item rank),
 
 The Discovery API doesn't provide very much support for seller info either - you can get the ID. In the browser you can drill down and see a profile of the seller. seller bio/profile body, seller catalog product list, AgentMode results, individual review text, product overviewText (the long-form prose block), the AWSMP prodviewId URL slug directly (unconfirmed until spike runs).
 
