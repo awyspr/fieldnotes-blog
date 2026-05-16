@@ -56,13 +56,14 @@ or the potential comparisons or the review details.
 If you're building some kind of overlay on AWSMP though, its pretty likely your users are going to 
 care about similar products and about actual customer reviews (rather than just the counts).
 
-_MORE NOTES HERE_
+## Other Observations
+There are other things that the Discovery API does not provide either for example:
 
-What the API does NOT provide: Ranked search position (no rank integer in response — sorting by RELEVANCE exists but no per-item rank),
+- Ranked search position (there is no rank integer in the response - so if you want ranks, you have to page scrape ...)
+- Search results ranked by Latest Updated
+- Search results ranked by Customer Reviews
 
-The Discovery API doesn't provide very much support for seller info either - you can get the ID. In the browser you can drill down and see a profile of the seller. seller bio/profile body, seller catalog product list, AgentMode results, individual review text, product overviewText (the long-form prose block), the AWSMP prodviewId URL slug directly (unconfirmed until spike runs).
-
-seller profile is linkable, but there is no discovery API equivalent of "who is this seller" which you can get with 1 click on the UI.
+The Discovery API doesn't provide very much support for seller info either - you can get an ID, but there's no way to get from the seller ID to the seller profile directly via the API, unlike the UI which provides this with 1-click.
 
 ## The wrap up
 
