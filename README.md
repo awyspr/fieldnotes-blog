@@ -12,6 +12,7 @@ Attribution: All content on these pages is written by humans, not by AI.</td>
 
 ### May 2026
 * [2026-05-15 Describing the deal (ContractDuration support in PartnerCentral Selling API)](2026-05-15-describing-the-deal.md)
+* [2026-05-01 Mostly empty PRM dashboards](2026-05-01-mostly-empty-prm-dashboards.md)
 
 ### April 2026
 * [2026-04-27 Hacking the AWSMP "Most Recent Update" results ranking filter](2026-04-27-hack-awsmp-most-recent-update.md)
