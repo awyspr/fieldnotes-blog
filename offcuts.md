@@ -20,10 +20,6 @@ https://awsapichanges.com/archive/changes/080f45-organizations.html
 https://awsapichanges.com/archive/changes/99ac86-partnercentral-account.html
 2026/03/30 - Partner Central Account API - 2 updated api methods
 
-~ 23 Mar - Mapping PartnerCentral Users to Managed Policies
-https://docs.aws.amazon.com/partner-central/latest/getting-started/managed-policy-mappings.html
-https://docs.aws.amazon.com/partner-central/latest/getting-started/managed-policies.html#security-iam-awsmanpol-updates
-
 
 
 NEW-IN-TOWN: Partner Central Agents/MCP compare and contrast Opportunity advice.
