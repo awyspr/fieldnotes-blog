@@ -21,10 +21,7 @@ HOW-TO: Create Workload Cost Estimates from CloudFormation
 https://docs.aws.amazon.com/cli/latest/reference/cloudformation/estimate-template-cost.html
 
 
-NEW-IN_TOWN Deal Sizing from Estimates
-
-https://aws.amazon.com/about-aws/whats-new/2025/12/aws-partner-central-opportunity-deal-sizing/
-
+## 2025 ...
 
 HOW-TO: Service-link ACE Opps with Solution Support
 As we reported earlier, you can't attach AWS products/Services to Solutions, nor inherit Products/Services from a Solution onto an Opportunity. So instead, you have to do a two-stepper. Here's one way to achieve the goal without resorting to manual UI click-errors, or needing a 3PI to fill the gap.
