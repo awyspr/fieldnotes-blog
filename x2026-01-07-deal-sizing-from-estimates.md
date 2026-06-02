@@ -6,7 +6,11 @@
 
 ## What's this one all about then ?
 
-Text
+NEW-IN_TOWN Deal Sizing from Estimates
+
+https://aws.amazon.com/about-aws/whats-new/2025/12/aws-partner-central-opportunity-deal-sizing/
+
+
 
 ### Minor heading
 
