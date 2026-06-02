@@ -2,7 +2,7 @@
 
 # deal sizing from estimates
 
-2026-01-07
+2026-01-17
 
 ## What's this one all about then ?
 
