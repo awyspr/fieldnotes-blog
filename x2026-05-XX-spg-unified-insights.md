@@ -1,12 +1,12 @@
 <a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="10%" height="10%" align="left"></a>
 
-# single pane of glass
+# single pane of glass - unified insights
 
 2026-05-XX
 
 ## What's this one all about then ?
 
-Text
+~ 5 May https://aws.amazon.com/blogs/awsmarketplace/deploy-aws-marketplace-spg-dashboard-unified-insights/
 
 ### Minor heading
 
