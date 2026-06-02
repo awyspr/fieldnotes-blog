@@ -1,16 +1,10 @@
-OFFCUTS & NOTES
+# Offcuts & WIP Notes
 
 ## 2026-06 Running
 
 
 
-
-## 2026-04
-~ 6 Apr
-https://awsapichanges.com/archive/changes/080f45-agreement-marketplace.html
-2026/03/31 - AWS Marketplace Agreement Service - 8 new api methods
-
-# Earlier
+# Older
 
 ## 2026-02
 
