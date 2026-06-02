@@ -1,12 +1,13 @@
 <a href="https://awyspr.com/"><img src="https://awyspr.com/assets/images/image07.svg?v=b4a015c2" width="10%" height="10%" align="left"></a>
 
-# title
+# Creating budgets via API
 
-YYYY-MM-DD
+2026-06-XX
 
 ## What's this one all about then ?
 
-Text
+~ 8 Jun creating budgets via API https://docs.aws.amazon.com/aws-cost-management/latest/APIReference/API_budgets_CreateBudget.html
+
 
 ### Minor heading
 
