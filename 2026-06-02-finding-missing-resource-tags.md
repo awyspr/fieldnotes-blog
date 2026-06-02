@@ -12,9 +12,7 @@ If you've ever been responsible for managing resource tags (not just applying th
 been around a long time and while critical for purposes ranging from billing and cost management, operational management and change
 control, has been a bit unloved in terms of functionality.
 
-### xxx
-
-~ 2 Jun behold the missing resource tags https://awsapichanges.com/archive/changes/e7ba6b-tagging.html
+### Tagging changes in detail
 
 The [AWS docs](https://docs.aws.amazon.com/resourcegroupstagging/latest/APIReference/API_GetResources.html) have been updated.
 
@@ -29,7 +27,7 @@ that are now no longer tagged" and get an answer direct from the API.
 
 The two big submethods are:
 - `ExcludeCompliantResources` which specifies whether to exclude resources that are compliant with the tag policy. Set this to true if you are interested in retrieving information on noncompliant resources only.
-- `IncludeComplianceDetails` which wpecifies whether to include details regarding the compliance with the effective tag policy. Set this to true to determine whether resources are compliant with the tag policy and to get details.
+- `IncludeComplianceDetails` which specifies whether to include details regarding the compliance with the effective tag policy. Set this to true to determine whether resources are compliant with the tag policy and to get details.
 
 Depending on what information you want returned, you can also specify the following:
 - Filters that specify what tags and resource types you want returned.
