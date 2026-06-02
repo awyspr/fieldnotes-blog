@@ -2,7 +2,6 @@ OFFCUTS & NOTES
 
 ## 2026-06
 
-~ 8 Jun creating budgets via API https://docs.aws.amazon.com/aws-cost-management/latest/APIReference/API_budgets_CreateBudget.html
 
 ## 2026-05
 
